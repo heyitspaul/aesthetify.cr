@@ -15,4 +15,4 @@ deploy:
   local_dir: docs
 matrix:
   allow_failures:
-    -crystal: nightly
+    - crystal: nightly
