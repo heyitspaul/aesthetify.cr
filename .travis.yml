@@ -13,3 +13,6 @@ deploy:
   on:
     branch: master
   local_dir: docs
+matrix:
+  allow_failures:
+    -crystal: nightly
