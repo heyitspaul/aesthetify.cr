@@ -8,7 +8,6 @@ require "./aesthetify/*"
 # This code was ported from Ruby and is currently missing the bang versions
 # because there doesn't exist a `String#replace` method in Crystal yet.
 class String
-
   # Takes a string and mutates it into a fullwidth uppercase version of that
   # string.
   def aesthetify

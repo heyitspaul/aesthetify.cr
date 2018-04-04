@@ -10,7 +10,6 @@ FULLWIDTH1 = " ！＂＃＄％＆＇（）＊＋，－．／０１２３４５�
 FULLWIDTH2 = "Ｔｈｅ ｑｕｉｃｋ ｂｒｏｗｎ ｆｏｘ ｊｕｍｐｓ ｏｖｅｒ ｔｈｅ ｌａｚｙ ｄｏｇ．"
 
 describe "String" do
-
   describe "#aesthetify" do
     it "mutates the string" do
       AESTHETIFY1.should eq DATA1.aesthetify
