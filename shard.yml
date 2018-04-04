@@ -1,0 +1,12 @@
+name: aesthetify
+version: 0.1.0
+
+authors:
+  - TheAssailant <TheAssailant@users.noreply.github.com>
+
+description:
+  - "aesthetify is a gem that lets you transform ASCII text into fullwidth text of 2 distinct flavors: regular ﻿Ｆｕｌｌｗｉｄｔｈ and ＡＥＳＴＨＥＴＩＣ"
+
+crystal: 0.24.2
+
+license: MIT
